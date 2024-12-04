@@ -1,6 +1,5 @@
 
 # Cyber Dash  
-#### Video Demo:  [URL HERE]  
 #### Description:
 
 Cyber Dash is a 2D side-scrolling pixel game built using Python and the PyGame library. The player controls a character in a futuristic cyberpunk world, where the goal is to dash through obstacles while accumulating points. The game combines traditional platformer mechanics with pixel art to create an engaging, nostalgic gameplay experience that requires reflexes and strategy to achieve a high score.
@@ -109,6 +108,3 @@ The game will open in a new window, and you can start playing by following the o
 
 ---
 
-### Sum up
-
-Cyber Dash encapsulates elements from classic platformers, such as intuitive controls, pixel art, and simple yet challenging mechanics. By focusing on player control, visual appeal, and procedural obstacle generation, the game offers a satisfying experience that grows more challenging over time. This project was a comprehensive exercise in game development fundamentals, including physics, sprite management, and object-oriented programming. Through Cyber Dash, I gained valuable insights into the game development process and applied skills acquired from the CS50x course, setting a foundation for future projects.
